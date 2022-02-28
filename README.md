@@ -10,12 +10,16 @@ The main goal of the application was to build a responsive image review library.
 
 ### Technologies
 
-The project is built in:
-React ^17.0.2
+The project is built in:<br/>
+React ^17.0.2<br/>
 Firebase ^9.6.1
 
 ### Setup
 
-To run this project, download and install it locally by using npm or yarn:
-$ npm install
+To run this project, download and install it locally by using npm or yarn: <br/>
+$ npm install<br/>
 $ npm run start
+
+### Live version
+
+https://u-photo.netlify.app

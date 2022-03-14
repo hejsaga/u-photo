@@ -6,7 +6,7 @@ This application is a school project built in React.
 
 ### Goal and requirements
 
-The main goal of the application was to build a responsive image review library. The core functionalities were is facilitate an app where users can create albums, upload images and send review links to unregistered users.
+The main goal of the application was to build a responsive image review library. The core functionalities is facilitating an app where users can create albums, upload images and send review links to unregistered users.
 
 ### Technologies
 
